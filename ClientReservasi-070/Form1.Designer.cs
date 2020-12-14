@@ -172,7 +172,7 @@
             this.dtPemesanan.Location = new System.Drawing.Point(37, 322);
             this.dtPemesanan.Name = "dtPemesanan";
             this.dtPemesanan.RowTemplate.Height = 24;
-            this.dtPemesanan.Size = new System.Drawing.Size(654, 242);
+            this.dtPemesanan.Size = new System.Drawing.Size(768, 284);
             this.dtPemesanan.TabIndex = 14;
             this.dtPemesanan.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtPemesanan_CellClick);
             // 
@@ -180,7 +180,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(769, 624);
+            this.ClientSize = new System.Drawing.Size(926, 654);
             this.Controls.Add(this.dtPemesanan);
             this.Controls.Add(this.btClear);
             this.Controls.Add(this.btHapus);
